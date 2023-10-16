@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=MMeesy)](https://github.com/MMeesy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmeesy&rank=S)](https://github.com/mmeesy/github-profile-trophy)
